@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0B0F19" />
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#0052FF" stroke-width="2" stroke-opacity="0.8" />
+  <path d="M14 20L6 32L14 44" stroke="#00FFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 20L58 32L50 44" stroke="#FF00FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- LN Shield / Monogram -->
+  <path d="M22 22V42H32" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 42V22L46 42V22" stroke="#00FFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="12" r="2" fill="#00FFFF" />
+  <circle cx="32" cy="52" r="2" fill="#FF00FF" />
+</svg>
