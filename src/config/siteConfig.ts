@@ -10,7 +10,7 @@ export const SITE_CONFIG = {
   contactEmail: 'lucasnascimentocontato@gmail.com',
   whatsappNumber: '5511999999999',
   whatsappDisplay: '+55 (11) 99999-9999',
-  resumeUrl: '/Lucas_Nascimento_Resume.pdf',
+  resumeUrl: `${import.meta.env.BASE_URL}Lucas_Nascimento_Resume.pdf`,
   author: 'Lucas Nascimento',
   social: {
     github: 'https://github.com/luscanascimento',
